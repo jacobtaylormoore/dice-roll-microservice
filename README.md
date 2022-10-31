@@ -46,5 +46,3 @@ Content-Type: application/json
     "numDice": "3" 
     "numFaces": "20"
 }
-/Users/jakemoore/Documents/Work/Arts and Labor/SRV Research/Screen Recordings/Screen Shot 2022-10-31 at 5.37.43 PM.png
-/Screen Shot 2022-10-31 at 5.37.43 PM.png
