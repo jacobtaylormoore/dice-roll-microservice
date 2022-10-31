@@ -39,6 +39,9 @@ node diceroll.js
 
 ### Example call
 
+#### Request
+
+```
 POST http://localhost:8080/dice HTTP/1.1
 Content-Type: application/json
 
@@ -46,6 +49,14 @@ Content-Type: application/json
     "numDice": "3" 
     "numFaces": "20"
 }
+```
 
+#### Response
+
+```
+{
+    "numbers": "12,20,1"
+}
+```
 
 ![diagram](https://github.com/jacobtaylormoore/dice-roll-microservice/blob/main/diagram.png?raw=true)
