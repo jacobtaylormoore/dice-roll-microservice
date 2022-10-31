@@ -48,4 +48,4 @@ Content-Type: application/json
 }
 
 
-![alt text](https://github.com/jacobtaylormoore/dice-roll-microservice/diagram.png)
+![diagram](https://github.com/jacobtaylormoore/dice-roll-microservice/diagram.png)
