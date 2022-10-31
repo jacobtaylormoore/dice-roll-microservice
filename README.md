@@ -48,4 +48,4 @@ Content-Type: application/json
 }
 
 
-![alt text](https://github.com/jacobtaylormoore/dice-roll-microservice/Screen Shot 2022-10-31 at 5.37.43 PM.png
+![alt text](https://github.com/jacobtaylormoore/dice-roll-microservice/diagram.png
